@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite">
+    <groups>
+    </groups>
+    <test name="Test">
+      <class name="com.evaluacion1.UITest">
+        <test-method status="PASS" signature="startBrowser()" name="startBrowser" duration-ms="13562" started-at="2024-12-18T19:49:07Z" finished-at="2024-12-18T19:49:21Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
